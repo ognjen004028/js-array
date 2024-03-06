@@ -1,6 +1,6 @@
-# js-niz
-Program u browseru koji ima 2 textboxa i 2 dugmeta. 
-Jedno dugme je za dodavanje novog textboxa, a drugo dugme je "uredi niz". 
-U textbox mogu da se upisu samo brojevi. 
-Dugme "uredi niz" izbacuje dijalog sa unetim brojevima koji su poredjani od najmanjeg ka najvecem.
-Prazne textboxove ignorise.
+# js-array
+A browser app that has 2 textboxes and 2 buttons.
+One button is to add a new textbox and the other button is to sort the array.
+Only numbers can be entered in the textboxes.
+The "sort array" button brings up a dialog with the entered numbers sorted from smallest to largest.
+Empty textboxes are ignored.
